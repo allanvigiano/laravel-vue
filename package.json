@@ -1,0 +1,22 @@
+{
+  "name": "laravel-vue",
+  "version": "1.0.0",
+  "description": "Fontes do curso de Laravel 5.3 com Vue.js ministrado pela School of Net.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allanvigiano/laravel-vue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allanvigiano/laravel-vue/issues"
+  },
+  "homepage": "https://github.com/allanvigiano/laravel-vue#readme",
+  "dependencies": {
+    "vue": "^1.0.28"
+  }
+}
