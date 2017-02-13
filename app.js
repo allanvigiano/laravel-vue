@@ -35,7 +35,8 @@ var app = new Vue({
             this.test ='xpto';
         }
     }
-
-    
-
 });
+
+app.$watch('test',function (novoValor, velhoValor) {
+    console.log('velho: ' + velhoValor + ' novoValor: ' + novoValor);
+})
